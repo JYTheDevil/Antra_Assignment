@@ -1,0 +1,12 @@
+D:\Full stack trainning\homework\Demo\Exercise 6\bin\Debug\netcoreapp3.1\Exercise 6.exe
+D:\Full stack trainning\homework\Demo\Exercise 6\bin\Debug\netcoreapp3.1\Exercise 6.deps.json
+D:\Full stack trainning\homework\Demo\Exercise 6\bin\Debug\netcoreapp3.1\Exercise 6.runtimeconfig.json
+D:\Full stack trainning\homework\Demo\Exercise 6\bin\Debug\netcoreapp3.1\Exercise 6.runtimeconfig.dev.json
+D:\Full stack trainning\homework\Demo\Exercise 6\bin\Debug\netcoreapp3.1\Exercise 6.dll
+D:\Full stack trainning\homework\Demo\Exercise 6\bin\Debug\netcoreapp3.1\Exercise 6.pdb
+D:\Full stack trainning\homework\Demo\Exercise 6\obj\Debug\netcoreapp3.1\Exercise 6.AssemblyInfoInputs.cache
+D:\Full stack trainning\homework\Demo\Exercise 6\obj\Debug\netcoreapp3.1\Exercise 6.AssemblyInfo.cs
+D:\Full stack trainning\homework\Demo\Exercise 6\obj\Debug\netcoreapp3.1\Exercise 6.csproj.CoreCompileInputs.cache
+D:\Full stack trainning\homework\Demo\Exercise 6\obj\Debug\netcoreapp3.1\Exercise 6.dll
+D:\Full stack trainning\homework\Demo\Exercise 6\obj\Debug\netcoreapp3.1\Exercise 6.pdb
+D:\Full stack trainning\homework\Demo\Exercise 6\obj\Debug\netcoreapp3.1\Exercise 6.genruntimeconfig.cache

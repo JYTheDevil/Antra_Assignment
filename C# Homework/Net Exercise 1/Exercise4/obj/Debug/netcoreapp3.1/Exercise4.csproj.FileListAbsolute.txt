@@ -1,0 +1,13 @@
+D:\Full stack trainning\homework\Demo\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+D:\Full stack trainning\homework\Demo\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+D:\Full stack trainning\homework\Demo\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+D:\Full stack trainning\homework\Demo\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+D:\Full stack trainning\homework\Demo\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+D:\Full stack trainning\homework\Demo\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.AssemblyReference.cache
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+D:\Full stack trainning\homework\Demo\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Full stack trainning\homework\Demo\Esxercise2\bin\Debug\netcoreapp3.1\Esxercise2.exe
+D:\Full stack trainning\homework\Demo\Esxercise2\bin\Debug\netcoreapp3.1\Esxercise2.deps.json
+D:\Full stack trainning\homework\Demo\Esxercise2\bin\Debug\netcoreapp3.1\Esxercise2.runtimeconfig.json
+D:\Full stack trainning\homework\Demo\Esxercise2\bin\Debug\netcoreapp3.1\Esxercise2.runtimeconfig.dev.json
+D:\Full stack trainning\homework\Demo\Esxercise2\bin\Debug\netcoreapp3.1\Esxercise2.dll
+D:\Full stack trainning\homework\Demo\Esxercise2\bin\Debug\netcoreapp3.1\Esxercise2.pdb
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.csproj.AssemblyReference.cache
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.AssemblyInfoInputs.cache
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.AssemblyInfo.cs
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.csproj.CoreCompileInputs.cache
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.dll
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.pdb
+D:\Full stack trainning\homework\Demo\Esxercise2\obj\Debug\netcoreapp3.1\Esxercise2.genruntimeconfig.cache

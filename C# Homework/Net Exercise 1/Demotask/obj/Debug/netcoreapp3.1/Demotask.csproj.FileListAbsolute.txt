@@ -1,0 +1,13 @@
+D:\Full stack trainning\homework\Demo\Demotask\bin\Debug\netcoreapp3.1\Demotask.exe
+D:\Full stack trainning\homework\Demo\Demotask\bin\Debug\netcoreapp3.1\Demotask.deps.json
+D:\Full stack trainning\homework\Demo\Demotask\bin\Debug\netcoreapp3.1\Demotask.runtimeconfig.json
+D:\Full stack trainning\homework\Demo\Demotask\bin\Debug\netcoreapp3.1\Demotask.runtimeconfig.dev.json
+D:\Full stack trainning\homework\Demo\Demotask\bin\Debug\netcoreapp3.1\Demotask.dll
+D:\Full stack trainning\homework\Demo\Demotask\bin\Debug\netcoreapp3.1\Demotask.pdb
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.csproj.AssemblyReference.cache
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.AssemblyInfoInputs.cache
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.AssemblyInfo.cs
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.csproj.CoreCompileInputs.cache
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.dll
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.pdb
+D:\Full stack trainning\homework\Demo\Demotask\obj\Debug\netcoreapp3.1\Demotask.genruntimeconfig.cache

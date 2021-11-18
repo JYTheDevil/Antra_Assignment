@@ -1,0 +1,15 @@
+D:\Homework\C# Homework\Homework1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Homework\C# Homework\Homework1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Homework\C# Homework\Homework1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Homework\C# Homework\Homework1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Homework\C# Homework\Homework1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Homework\C# Homework\Homework1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Homework\C# Homework\Homework1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

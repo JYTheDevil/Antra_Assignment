@@ -1,0 +1,13 @@
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.AssemblyReference.cache
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+D:\Full stack trainning\homework\Day2 - HW solution\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache

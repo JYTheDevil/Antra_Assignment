@@ -1,0 +1,18 @@
+.search{
+    text-align: right;
+}
+table{
+    background-color: steelblue;
+}
+tr.menu td{
+    padding: 15px;
+}
+tr.search td, tr.menu td{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: pink;
+}

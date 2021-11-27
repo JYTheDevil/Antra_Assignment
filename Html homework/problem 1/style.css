@@ -1,0 +1,16 @@
+tr.logo th{
+    text-align: left;
+}
+tr.image td {
+padding: 0 30px;
+}
+tr.title td{
+    text-align: center;
+}
+
+tr.image td{
+    text-align: center;
+}
+tr.content td{
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\Data.Entities.deps.json
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\Data.Entities.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\ref\Data.Entities.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\Data.Entities.pdb
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.csproj.AssemblyReference.cache
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.AssemblyInfoInputs.cache
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.AssemblyInfo.cs
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\ref\Data.Entities.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.pdb
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\Data.Entities.deps.json
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\Data.Entities.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\ref\Data.Entities.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\bin\Debug\net6.0\Data.Entities.pdb
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.csproj.AssemblyReference.cache
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.AssemblyInfoInputs.cache
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.AssemblyInfo.cs
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\ref\Data.Entities.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Entities\obj\Debug\net6.0\Data.Entities.pdb

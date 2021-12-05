@@ -1,0 +1,30 @@
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.deps.json
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\ref\Data.Repositories.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.pdb
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Entities.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Entities.pdb
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.AssemblyReference.cache
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.AssemblyInfoInputs.cache
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.AssemblyInfo.cs
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.CopyComplete
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\ref\Data.Repositories.dll
+C:\Users\rosen\Desktop\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.pdb
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.deps.json
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\ref\Data.Repositories.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.pdb
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Entities.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Entities.pdb
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.AssemblyReference.cache
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.AssemblyInfoInputs.cache
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.AssemblyInfo.cs
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.CopyComplete
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\ref\Data.Repositories.dll
+C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.pdb

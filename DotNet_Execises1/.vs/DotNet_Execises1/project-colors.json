@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83380e9c-05be-497a-9d59-1ae5c5965410": {
+      "ProjectGuid": "83380e9c-05be-497a-9d59-1ae5c5965410",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "ca62af19-4853-42bd-899f-f2b42f25710e": {
+      "ProjectGuid": "ca62af19-4853-42bd-899f-f2b42f25710e",
+      "DisplayName": "Data.Entities",
+      "ColorIndex": 1
+    },
+    "95d00222-4b55-483d-b3db-71bd505f9e88": {
+      "ProjectGuid": "95d00222-4b55-483d-b3db-71bd505f9e88",
+      "DisplayName": "Data.Repositories",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

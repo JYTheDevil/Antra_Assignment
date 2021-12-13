@@ -8,18 +8,26 @@ using Data.Entities;
 using System.Data.SqlClient;
 namespace Data.Repositories
 {
-    public class No7_Repo
+    public class No7_Repo : No7_IRepo<Minions>
     {
         DbContext _db;
         public No7_Repo()
         {
             _db = new DbContext();
         }
-        public dynamic GetMinionsName(int id)
+        public Minions GetMinionsName(int id)
         {
             using (SqlConnection conn = new SqlConnection(_db.GetConnectionString()))
             {
-                dynamic d = conn.QueryFirstOrDefault<Minions>(@"select Name from Minions");
+                Minions d = conn.QueryFirstOrDefault<Minions>(@"select Name from Minions where @id = id",new {id = id});
+                return d;
+            }
+        }
+        public dynamic GetMinionsName()
+        {
+            using (SqlConnection conn = new SqlConnection(_db.GetConnectionString()))
+            {
+                dynamic d = conn.Query(@"select Name from Minions");
                 return d;
             }
         }

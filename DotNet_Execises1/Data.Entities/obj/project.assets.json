@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rosen\\Desktop\\Study\\ADO.net Homework\\DotNet_Execises1\\Data.Entities\\Data.Entities.csproj",
+      "projectUniqueName": "D:\\DotNet Training homework\\DotNet_Execises1\\Data.Entities\\Data.Entities.csproj",
       "projectName": "Data.Entities",
-      "projectPath": "C:\\Users\\rosen\\Desktop\\Study\\ADO.net Homework\\DotNet_Execises1\\Data.Entities\\Data.Entities.csproj",
+      "projectPath": "D:\\DotNet Training homework\\DotNet_Execises1\\Data.Entities\\Data.Entities.csproj",
       "packagesPath": "C:\\Users\\rosen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rosen\\Desktop\\Study\\ADO.net Homework\\DotNet_Execises1\\Data.Entities\\obj\\",
+      "outputPath": "D:\\DotNet Training homework\\DotNet_Execises1\\Data.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

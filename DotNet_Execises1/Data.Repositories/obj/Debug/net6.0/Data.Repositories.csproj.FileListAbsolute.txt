@@ -28,3 +28,18 @@ C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories
 C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.dll
 C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\ref\Data.Repositories.dll
 C:\Users\rosen\Desktop\Study\ADO.net Homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.pdb
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.deps.json
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.dll
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\ref\Data.Repositories.dll
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Repositories.pdb
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Entities.dll
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\bin\Debug\net6.0\Data.Entities.pdb
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.AssemblyReference.cache
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.AssemblyInfoInputs.cache
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.AssemblyInfo.cs
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.CoreCompileInputs.cache
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.csproj.CopyComplete
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.dll
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\ref\Data.Repositories.dll
+D:\DotNet Training homework\DotNet_Execises1\Data.Repositories\obj\Debug\net6.0\Data.Repositories.pdb

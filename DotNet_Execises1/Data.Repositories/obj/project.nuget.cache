@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J1n1TY2nAbpb3qvGvF5814vIxX6hZBuMCTLhX5pI9cL2EYkhKJTQotXap73DJFyU5sBt+3x93EqwzQWbVH6EFg==",
+  "dgSpecHash": "i1eQ7RAM5gdUYa3XS7drJSYnwPc1tF+RN8VIlUKCDrq9GlLXa0vVId8WNVgDjQ2niCn8ps3QRR+AsL04QjzvyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rosen\\Desktop\\Study\\ADO.net Homework\\DotNet_Execises1\\Data.Repositories\\Data.Repositories.csproj",
+  "projectFilePath": "D:\\DotNet Training homework\\DotNet_Execises1\\Data.Repositories\\Data.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosen\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\rosen\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

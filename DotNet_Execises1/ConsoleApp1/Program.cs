@@ -13,9 +13,16 @@ namespace ConsoleApp1
             //No3 minionNames = new No3();
             //minionNames.Run();
 
-            No8 minionName = new No8();
-            minionName.Run();
-
+            //No5 TownNameChanged = new No5();
+            //TownNameChanged.Run();
+            No6 no6 = new No6();
+            no6.Run();
+            //No7 minionName = new No7();
+            //minionName.Run();
+            //No8 minionName = new No8();
+            //minionName.Run();
+            //No9 minionName = new No9();
+            //minionName.Run();
         }
     }
 }

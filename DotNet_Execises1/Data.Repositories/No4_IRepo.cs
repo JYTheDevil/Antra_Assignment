@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Data.Repositories
 {
-    public interface No6_IRepo<T> where T : class
+    public interface No4_IRepo<T> where T : class
     {
-        int DeleteMV(int id);
-        T DeleteV(int id);
+         int Insert(T entity);
     }
 }

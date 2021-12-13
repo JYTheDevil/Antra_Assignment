@@ -15,23 +15,19 @@ namespace Data.Repositories
         {
             db = new DbContext();
         }
-        public Villains Update(int id)
+        public int DeleteMV(int id)
         {
             using (SqlConnection conn = new SqlConnection(db.GetConnectionString()))
             {
-                //conn.Query<Villains>(@"begin tran
-                //                       delete from MinionsVillains 
-                //                       where @id = id
-                //                       delete from Villains
-                //                       output deleted.[name], deleted.[id]
-                //                       where @id = id", new { id = id });
-                Villains m = conn.QueryFirstOrDefault<Villains>(@"begin tran
-                                                                  delete from MinionsVillains 
-                                                                  where VillainId = @id
-                                                                  delete from Villains
-                                                                  output deleted.[name]
-                                                                  where id = @id", new { id = id });
-                return m;
+                return conn.Execute("delete from MinionsVillains where VillianId = @id ", new { id = id });
+            }
+        }
+        public Villains DeleteV(int id)
+        {
+            using (SqlConnection conn = new SqlConnection(db.GetConnectionString()))
+            {
+                Villains d =  conn.QueryFirstOrDefault<Villains>(" delete from Villains output deleted.[name] where id = @id ", new { id = id });
+                return d;
             }
         }
     }

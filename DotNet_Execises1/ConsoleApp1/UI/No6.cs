@@ -17,14 +17,13 @@ namespace ConsoleApp1.UI
 
         void PrintName()
         {
+
             Console.WriteLine("Enter the Id");
             int num = Convert.ToInt32(Console.ReadLine());
 
-            dynamic d = repo.Update(num);
-            foreach (dynamic villains in d)
-            {
-                Console.WriteLine($"{villains.Name} was deleted");
-            }
+            Console.WriteLine($"{repo.DeleteMV(num)} minions were released");
+            dynamic d = repo.DeleteV(num);
+            Console.WriteLine($"{d.Name} was deleted");
 
 
         }
